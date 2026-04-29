@@ -61,4 +61,4 @@ TECH USED: Notion for prototype system design:
 - Product thinking and system design principles 
 - AI assisted ideation and structuring.
 
-PURPOSE OF THIS PROJECT: This prjoecr demonstrates product thinking skills including user empathy, system design, behavioral understanding, and the ability to turn real world problems into structured solutions.
+PURPOSE OF THIS PROJECT: This prjoect demonstrates product thinking skills including user empathy, system design, behavioral understanding, and the ability to turn real world problems into structured solutions.
