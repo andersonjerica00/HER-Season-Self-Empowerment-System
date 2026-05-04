@@ -1,7 +1,7 @@
-HER SEASON : A Self empowerment System for single mothers. 
+HER SEASON : A Self Care and Growth System for single mothers. 
 
 
-PROJECT OVERVIEW: HER Season is a self empowerment system designed for single mothers who want to prioritize themselves while still thriving in motherhood. It focuses onself care, health, confidence, identity, and personal growth through simple structured habits. This project demonstrates product thinking by turning a real life emotional and lifestyle challenge into a simple system that supports behavior change and long term personal growth.
+PROJECT OVERVIEW: HER Season is a self care and growth system designed for single mothers who want to prioritize themselves while still thriving in motherhood. It focuses onself care, health, confidence, identity, and personal growth through simple structured habits. This project demonstrates product thinking by turning a real life emotional and lifestyle challenge into a simple system that supports behavior change and long term personal growth.
 
 
 PROBLEM: Many single mothers spend the most of their time focused on responsibilties and caregiving while neglacting their own health, identity, and personal development. Over time, this can lead to burnout, low confidence, and loss of self identity. The core challenge is not motivation but lack of structure that makes self care and personal growth feel realistic and sustainable.
