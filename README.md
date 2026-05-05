@@ -62,3 +62,5 @@ TECH USED: Notion for prototype system design:
 - AI assisted ideation and structuring.
 
 PURPOSE OF THIS PROJECT: This prjoect demonstrates product thinking skills including user empathy, system design, behavioral understanding, and the ability to turn real world problems into structured solutions.
+
+VIEW PROJECT: https://www.notion.so/HER-Season-Self-Care-and-Growth-System-351a9a393715800f9e09d2ed966a6016?source=copy_link
